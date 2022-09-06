@@ -1,15 +1,16 @@
 body{
     margin: 0px;
     background-image: url("image/minecraft-1106261.png");
+    background-repeat: no-repeat;
 }
 #container{
     text-align: center;
 }
 #disp{
     background-color: white;
-    margin-top: 20rem;
-    margin-left: 35rem;
-    margin-right: 35rem;
+    margin-top: 17%;
+    margin-left: 28%;
+    margin-right: 28%;
     border-radius: 15px;
     border: solid 2px rgb(252, 176, 63);
 }
