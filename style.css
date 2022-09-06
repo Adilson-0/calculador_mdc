@@ -9,10 +9,12 @@ body{
 #disp{
     background-color: white;
     margin-top: 17%;
-    margin-left: 28%;
-    margin-right: 28%;
+    margin-left: 30%;
+    margin-right: 30%;
     border-radius: 15px;
     border: solid 2px rgb(252, 176, 63);
+    width: 40%;
+    height: 40%;
 }
 h1{
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
