@@ -26,7 +26,6 @@ button.addEventListener('click', function(){
     })
     result.splice(0, (result.length - 1));
     alert(result);
-    
+    input01.value = '';
+    input02.value = '';
 });
-
-
